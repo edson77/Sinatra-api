@@ -8,4 +8,5 @@
 /.env/*
 
 src/storage/*
-/src/storage/*
+src/storage/
+/src/storage/
